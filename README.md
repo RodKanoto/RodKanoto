@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do RodKanoto 😁
+## Bem-vindo(a) ao perfil do DevGuiRodrigues 😁
 
  <div>
-   <a href="https://github.com/RodKanoto">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodKanoto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodKanoto&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/DevGuiRodrigues">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGuiRodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGuiRodrigues&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -21,6 +21,6 @@
   <a href = "mailto:guilherme143.rodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-rodrigues-canato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/RodKanoto/RodKanoto/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DevGuiRodrigues/DevGuiRodrigues/blob/output/github-contribution-grid-snake.svg)
 
 </div>
